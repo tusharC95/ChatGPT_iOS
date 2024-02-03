@@ -1,7 +1,8 @@
 <h1><b><ins>ChatGPT iOS APP</ins></b></n></h1>
 
 <h3><b><ins>Initial Setup</ins></b></n></h3>
-Enter your personal API key to access <i>gpt-3.5-turbo</i>
+Enter your personal API key to access <i>gpt-3.5-turbo</i> in <b>NetworkModel.swift</b>
+
 
    
     //enter your API key here.
